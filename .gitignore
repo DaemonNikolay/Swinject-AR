@@ -192,7 +192,7 @@ iOSInjectionProject/
 ### SwiftPackageManager ###
 Packages
 xcuserdata
-*.xcodeproj
+# *.xcodeproj
 
 
 ### Xcode ###
@@ -206,7 +206,7 @@ xcuserdata
 /*.gcno
 
 ### Xcode Patch ###
-*.xcodeproj/*
+# *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
 !*.xcworkspace/contents.xcworkspacedata
